@@ -6,7 +6,11 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "3.0.0rc5",
+    "express": "3.0.0beta4",
     "jade": "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
   }
 }
